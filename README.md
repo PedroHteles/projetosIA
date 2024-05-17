@@ -1,0 +1,2 @@
+# projetosIA
+locuras
